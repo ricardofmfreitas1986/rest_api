@@ -1,4 +1,4 @@
-# rest api service for medications
+# REST API service for medications
 
 This project implements a REST API Service
 
