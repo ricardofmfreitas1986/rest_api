@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MedicationRESTApi", "MedicationRESTApi.csproj", "{CA61166F-C001-495F-B1CF-747D7E0974E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "..\TestProject\TestProject.csproj", "{A5EA31BD-2A5C-4BDC-9846-A51ACCC357D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA61166F-C001-495F-B1CF-747D7E0974E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA61166F-C001-495F-B1CF-747D7E0974E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA61166F-C001-495F-B1CF-747D7E0974E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA61166F-C001-495F-B1CF-747D7E0974E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5EA31BD-2A5C-4BDC-9846-A51ACCC357D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5EA31BD-2A5C-4BDC-9846-A51ACCC357D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5EA31BD-2A5C-4BDC-9846-A51ACCC357D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5EA31BD-2A5C-4BDC-9846-A51ACCC357D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B8C8035-D814-43E3-9D24-823517881E51}
+	EndGlobalSection
+EndGlobal

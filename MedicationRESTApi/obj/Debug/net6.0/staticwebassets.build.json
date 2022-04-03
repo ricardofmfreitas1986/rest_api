@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pltdESRgDLUa9HOL/NRORBLy6Wf4eTycmINodcTwB/s=",
+  "Source": "MedicationRESTApi",
+  "BasePath": "_content/MedicationRESTApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
